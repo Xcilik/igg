@@ -4,7 +4,7 @@ import instaloader
 L = instaloader.Instaloader()
 
 # Login (supaya bisa akses daftar following akun yang private / banyak datanya)
-username = "farid_srydi"
+username = "faridsrydi"
 password = "@Cilik423"
 L.login(username, password)
 
